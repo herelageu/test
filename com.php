@@ -1,2 +1,4 @@
 <?php 
-echo 'com';
+echo 'com'; 
+echo "line2";
+echo "line3";
